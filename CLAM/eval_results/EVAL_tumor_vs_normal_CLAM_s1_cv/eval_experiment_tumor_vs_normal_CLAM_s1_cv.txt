@@ -1,0 +1,1 @@
+{'task': 'task_1_tumor_vs_normal', 'split': 'test', 'save_dir': './eval_results/EVAL_tumor_vs_normal_CLAM_s1_cv', 'models_dir': '/workspace/Diploma_Project/CLAM/results/tumor_vs_normal_CLAM_s1', 'model_type': 'clam_sb', 'drop_out': 0.25, 'model_size': 'small'}
